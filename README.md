@@ -1,7 +1,7 @@
 # Debugging Functions
 
-## Assigned: Wednesday, October 13, 2021
-## Due: Friday, October 15, 2021
+## Assigned: Thursday, April 7, 2022
+## Due: Thursday, April 14, 2022
 
 After cloning this repository to your computer, please take the following steps:
 
@@ -14,5 +14,7 @@ After cloning this repository to your computer, please take the following steps:
 - Confirm that the programs are producing the expected output
 - Explain why the programs produce the output that they do
 - Repair all of the defects inside of the program suggested by the checks
+- As you repair the program, please frequently commit to your GitHub repository
+- As you commit to your GitHub repository, please use descriptive commit messages
 - Use a `docker run` command for your operating system to run GatorGrader
 - Provide all of the required responses in the `writing/reflection.md` file
