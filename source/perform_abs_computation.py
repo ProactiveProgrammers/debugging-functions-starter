@@ -20,6 +20,10 @@ def test_abs() -> None:
         print("Expected output not correct for a negative input!")
     else:
         print("Expected output correct for a negative input!")
+    # TODO: Implement the remaining "test cases" as conditional
+    # logic inside of this function
+    # TODO: The "test cases" should produce output indicating
+    # whether or not the function produced the expected output
     # TODO: test case: 2 should return 2
     # TODO: test case: -1 should return 1
     # TODO: test case: 1 should return 1
