@@ -22,6 +22,10 @@ def test_is_prime() -> None:
         print("Expected output not correct for input of zero!")
     else:
         print("Expected output correct for input of zero!")
+    # TODO: Implement the remaining "test cases" as conditional
+    # logic inside of this function
+    # TODO: The "test cases" should produce output indicating
+    # whether or not the function produced the expected output
     # TODO: test case: 1 is not a prime number
     # TODO: test case: 2 is a prime number
     # TODO: test case: 41 is a prime number
