@@ -1,5 +1,10 @@
 # Debugging Functions
 
+TODO: Make sure that you delete all of the TODO markers inside of this file
+while also delete and/or repurposing all of the prompts in the document. The
+final version of this file should contain professionally written text that
+does not have any mistakes in spelling, grammar, technical meaning, or format.
+
 ## Add Your Name Here
 
 ## Program Output
