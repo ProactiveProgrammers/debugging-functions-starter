@@ -1,5 +1,7 @@
 """Calculate the absolute value (abs) of a number."""
 
+# TODO: Find and fix any defect(s) inside of the abs function!
+
 
 def abs(x: int) -> int:
     """Assume x is an int.
@@ -27,7 +29,6 @@ def test_abs() -> None:
     # TODO: test case: 2 should return 2
     # TODO: test case: -1 should return 1
     # TODO: test case: 1 should return 1
-
 
 
 if __name__ == "__main__":
