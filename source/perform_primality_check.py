@@ -1,5 +1,7 @@
 """Determine if specific numbers are or are not prime numbers."""
 
+# TODO: Find and fix any defect(s) in the is_prime function!
+
 
 def is_prime(x: int) -> bool:
     """Assume x is a non-negative int.
