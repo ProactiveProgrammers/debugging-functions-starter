@@ -37,6 +37,10 @@ TODO: Write one paragraph as a complete response to this question.
 
 TODO: Write one paragraph as a complete response to this question.
 
+### What process do you follow to debug a function? How did you develop this process? How well does it work?
+
+TODO: Write one paragraph as a complete response to this question.
+
 ### Compare and contrast the use of Pytest and the "tests" in these programs
 
 TODO: Write one paragraph as a complete response to this question.
